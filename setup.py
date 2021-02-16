@@ -12,7 +12,7 @@ setup(
     version="2.1.0",
     url="https://github.com/waveaccounting/dj-inmemorystorage",
     license='BSD',
-    long_description=open('README.md').read(),
+    long_description='',
     long_description_content_type='text/markdown',
     author='Cody Soyland, Seán Hayes, Tore Birkeland, Nick Presta',
     author_email='opensource@waveapps.com',
